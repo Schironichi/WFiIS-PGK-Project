@@ -10,3 +10,7 @@ Used tools:
 ## Documentation
 
 Detailed documentation in Polish can be found in the [Dokumentacja_GFK04.pdf](doc/Dokumentacja.pdf) file.
+
+## Genesis
+
+The project was created for the subject Basics of Computer Graphics (Podstawy Grafiki Komputerowej) during the IV semester of studies.
